@@ -20,7 +20,7 @@ This project is built with Laravel to provide a robust, scalable backend solutio
 ## Tech Stack
 
 - **Framework:** Laravel
-- **Database:** MySQL/PostgreSQL
+- **Database:** SQLite
 - **API:** RESTful architecture
 - **Frontend Integration:** Consumed by [karllouiserito.netlify.app](https://karllouiserito.netlify.app/)
 
